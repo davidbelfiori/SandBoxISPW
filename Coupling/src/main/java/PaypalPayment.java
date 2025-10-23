@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class PaypalPayment implements PaymantMethod {
 
-public class PaypalPayment {
+    @Override
+    public void processPayment(double amount) {
+        System.out.println("Processing PayPal payment of amount: " + amount);
+    }
 }
