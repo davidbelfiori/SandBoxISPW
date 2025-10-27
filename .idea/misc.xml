@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/interfaceNonCollision/pom.xml" />
+        <option value="$PROJECT_DIR$/Associazione/pom.xml" />
+        <option value="$PROJECT_DIR$/Aggregazione/pom.xml" />
       </list>
     </option>
   </component>
