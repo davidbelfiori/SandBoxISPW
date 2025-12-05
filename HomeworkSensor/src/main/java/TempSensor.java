@@ -15,8 +15,10 @@ public class TempSensor implements Sensor<Double>{
 
     @Override
     public DataPacket<Double> collectData() {
-        double temperature = 15 + Math.random() * 10;// Simulated temperature between 15 and 25
+        double temperatureCelsius = 15 + Math.random() * 10;// Simulated temperature between 15 and 25
+        //in faranite
+        double temperatureFahrenheit = 3 + Math.random() * 10;
         LocalDateTime timestamp = LocalDateTime.now();
-        return new DataPacket<>(this.id,temperature);
+        return new DataPacket<>(this.id,temperatureCelsius);
     }
 }

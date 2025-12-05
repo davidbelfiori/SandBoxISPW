@@ -8,10 +8,14 @@
         <option value="$PROJECT_DIR$/interfaceNonCollision/pom.xml" />
         <option value="$PROJECT_DIR$/Associazione/pom.xml" />
         <option value="$PROJECT_DIR$/Aggregazione/pom.xml" />
+        <option value="$PROJECT_DIR$/HomeworkSensor/pom.xml" />
+        <option value="$PROJECT_DIR$/Coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/Composizione/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentCorseBCE/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

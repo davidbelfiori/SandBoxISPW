@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Associazione" />
+        <module name="Composizione" />
+        <module name="StudentCorseBCE" />
         <module name="Aggregazione" />
+        <module name="Associazione" />
         <module name="interfaceNonCollision" />
+        <module name="Coupling" />
+        <module name="HomeworkSensor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Coupling" target="24" />
       <module name="SandBoxISPW" target="24" />
     </bytecodeTargetLevel>
   </component>
